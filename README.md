@@ -31,7 +31,7 @@ The script requires the following commands (typically pre-installed on most Linu
 
 1. Download the script:
 ```bash
-curl -O https://your-script-location/server-stats.sh
+git clone https://github.com/aynsky/server-perf-stats.git
 ```
 
 2. Make it executable:
