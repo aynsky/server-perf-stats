@@ -1,5 +1,8 @@
 # server-perf-stats
 
+![Use case](./img/use_case.png)
+
+
 # Server Performance Dashboard
 
 A real-time, color-coded Bash script that monitors and displays your server's performance metrics in a beautiful dashboard format.
